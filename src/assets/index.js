@@ -3,13 +3,13 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
+import githubicon from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import materialui from "./tech/materialui.png";
+import github from "./tech/github.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -36,12 +36,12 @@ export {
   creator,
   mobile,
   web,
-  github,
+  githubicon,
   menu,
   close,
   css,
-  docker,
-  figma,
+  materialui,
+  github,
   git,
   html,
   javascript,

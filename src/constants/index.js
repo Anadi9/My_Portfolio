@@ -13,8 +13,8 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
+  github,
+  materialui,
   enonity,
   orions,
   shethink,
@@ -105,12 +105,12 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "github",
+    icon: github,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "materialui",
+    icon: materialui,
   },
 ];
 
